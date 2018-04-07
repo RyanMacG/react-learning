@@ -1,3 +1,5 @@
-.header {
-  background: hotpink
+header {
+  background: #999;
+  height: auto;
+  padding: 10px;
 }
