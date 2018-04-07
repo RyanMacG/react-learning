@@ -3,4 +3,5 @@ footer {
   flex-shrink: 0;
   height: auto;
   padding: 10px;
+  text-align: center;
 }
