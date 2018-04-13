@@ -21,7 +21,7 @@ export default class App extends Component {
       <div className="app">
         <Header />
         <main className="content">
-          <div dangerouslySetInnerHTML={lorem()} />
+          <div dangerouslySetInnerHTML={lorem()} className="text-content" />
         </main>
         <Footer />
       </div>
